@@ -1,4 +1,4 @@
-# 🔥 NGAO-Nuker
+<h1 align="center">💣 NGAO-Nuker </h1>
 
 ## 🔧 Instructions:
 Download the `.zip` file and place all the files in a single folder.

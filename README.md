@@ -36,6 +36,7 @@
 - 🐍 Coded in Python 3.7+
 - 💾 No stolen tokens: you provide your own bot token
 - 🧬 Stylish, fast, minimalist interface
+- **Just because the code is not open source does not mean it is malware, a backdoor, etc.!!**
 
 ---
 
@@ -44,7 +45,6 @@
 > This project is for **educational purposes only**.
 > The author **is not responsible** for any misuse.
 > You are solely responsible for what you do with this tool.
-**Just because the code is not open source does not mean it is malware, a backdoor, etc.!!**
 
 ---
 

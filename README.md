@@ -1,10 +1,10 @@
 <h1 align="center">💣 NGAO-Nuker </h1>
 
 ## 🔧 Instructions:
-Download the `.zip` file and place all the files in a single folder.
-Make sure `NGAO-Nuker.exe` and `Configuration.json` are grouped together.
-Double-click `NGAO-Nuker.exe`.
-💣 The tool is ready to launch.
+- Download the `.zip` file and place all the files in a single folder.
+- Make sure `NGAO-Nuker.exe` and `Configuration.json` are grouped together.
+- Double-click `NGAO-Nuker.exe`.
+- The tool is ready to launch.
 
 > **Discord Nuker Tool developed by RyzenGT — powerful, fast, and beautiful.**
 > *Send me a DM if there's any problem :* `kng.sgao`

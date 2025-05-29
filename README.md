@@ -36,7 +36,7 @@
 - 🐍 Coded in Python 3.7+
 - 💾 No stolen tokens: you provide your own bot token
 - 🧬 Stylish, fast, minimalist interface
-- **Just because the code is not open source does not mean it is malware, a backdoor, etc.!!**
+- ❗ **Just because the code is not open source does not mean it is malware, a backdoor, etc.!!**
 
 ---
 

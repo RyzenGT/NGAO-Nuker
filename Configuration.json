@@ -1,0 +1,63 @@
+{
+    "User-Config": {
+        "UserId": "",
+        "BotToken": ""
+    },
+    "Preset-Nuker1": {
+        "ServerName": "Nuked By NGAO Nuker",
+        "ChannelsTextName": "nuked-by-ngao-nuker",
+        "ChannelsTextAmount": "30",
+        "ChannelsVocName": "Nuked By NGAO-Nuker",
+        "ChannelsVocAmount": "70",
+        "Message": "## Nuked By [NGAO-Nuker](https://github.com/RyzenGT/NGAO-Nuker) Tool @everyone @here",
+        "AdminRoleToEveryone": "Yes",
+        "DelExistingChannels": "Yes",
+        "DeleteRoles": "Yes",
+        "DeleteEmojis": "Yes",
+        "DeleteStickers": "Yes",
+        "DeleteSoundboards": "Yes"
+    },
+    "Preset-Nuker2": {
+        "ServerName": "Fucked by NGAO Nuker",
+        "ChannelsTextName": "fucked-by-ngao-nuker",
+        "ChannelsTextAmount": "40",
+        "ChannelsVocName": "Fucked By NGAO-Nuker",
+        "ChannelsVocAmount": "60",
+        "Message": "## Fucked By [NGAO-Nuker](https://github.com/RyzenGT/NGAO-Nuker) Tool @everyone @here | So EZ ",
+        "AdminRoleToEveryone": "Yes",
+        "DelExistingChannels": "Yes",
+        "DeleteRoles": "Yes",
+        "DeleteEmojis": "No",
+        "DeleteStickers": "No",
+        "DeleteSoundboards": "No"
+    },
+    "Preset-Nuker3": {
+        "ServerName": "NGAO Nuker On Top",
+        "ChannelsTextName": "ngao-nuker-on-top",
+        "ChannelsTextAmount": "40",
+        "ChannelsVocName": "NGAO Nuker On Top",
+        "ChannelsVocAmount": "60",
+        "Message": "## [NGAO-Nuker](https://github.com/RyzenGT/NGAO-Nuker) On Top @everyone @here | Best Nuker Tool ",
+        "AdminRoleToEveryone": "No",
+        "DelExistingChannels": "Yes",
+        "DeleteRoles": "No",
+        "DeleteEmojis": "No",
+        "DeleteStickers": "No",
+        "DeleteSoundboards": "No"
+    },
+    "Custom-Nuker": {
+        "ServerName": "",
+        "ChannelsTextName": "",
+        "ChannelsTextAmount": "",
+        "ChannelsVocName": "",
+        "ChannelsVocAmount": "",
+        "WebhookName": "",
+        "Message": "",
+        "AdminRoleToEveryone": "",
+        "DelExistingChannels": "",
+        "DeleteRoles": "",
+        "DeleteEmojis": "",
+        "DeleteStickers": "",
+        "DeleteSoundboards": ""
+    }
+}

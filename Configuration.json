@@ -1,15 +1,16 @@
 {
     "User-Config": {
+        "FirstRun": "Yes",
         "UserId": "",
         "BotToken": ""
     },
     "Preset-Nuker1": {
         "ServerName": "Nuked By NGAO Nuker",
         "ChannelsTextName": "nuked-by-ngao-nuker",
-        "ChannelsTextAmount": "30",
+        "ChannelsTextAmount": "20",
         "ChannelsVocName": "Nuked By NGAO-Nuker",
-        "ChannelsVocAmount": "70",
-        "Message": "## Nuked By [NGAO-Nuker](https://github.com/RyzenGT/NGAO-Nuker) Tool @everyone @here",
+        "ChannelsVocAmount": "40",
+        "Message": "## Nuked By [NGAO-Nuker](https://github.com/RyzenGT/NGAO-Nuker) Tool ;) ||@everyone @here||",
         "AdminRoleToEveryone": "Yes",
         "DelExistingChannels": "Yes",
         "DeleteRoles": "Yes",
@@ -20,10 +21,10 @@
     "Preset-Nuker2": {
         "ServerName": "Fucked by NGAO Nuker",
         "ChannelsTextName": "fucked-by-ngao-nuker",
-        "ChannelsTextAmount": "40",
+        "ChannelsTextAmount": "20",
         "ChannelsVocName": "Fucked By NGAO-Nuker",
-        "ChannelsVocAmount": "60",
-        "Message": "## Fucked By [NGAO-Nuker](https://github.com/RyzenGT/NGAO-Nuker) Tool @everyone @here | So EZ ",
+        "ChannelsVocAmount": "45",
+        "Message": "## Fucked By [NGAO-Nuker](https://github.com/RyzenGT/NGAO-Nuker) Tool > SO EZZZ ||@everyone @here|| ",
         "AdminRoleToEveryone": "Yes",
         "DelExistingChannels": "Yes",
         "DeleteRoles": "Yes",
@@ -34,10 +35,10 @@
     "Preset-Nuker3": {
         "ServerName": "NGAO Nuker On Top",
         "ChannelsTextName": "ngao-nuker-on-top",
-        "ChannelsTextAmount": "40",
+        "ChannelsTextAmount": "20",
         "ChannelsVocName": "NGAO Nuker On Top",
-        "ChannelsVocAmount": "60",
-        "Message": "## [NGAO-Nuker](https://github.com/RyzenGT/NGAO-Nuker) On Top @everyone @here | Best Nuker Tool ",
+        "ChannelsVocAmount": "40",
+        "Message": "## [NGAO-Nuker](https://github.com/RyzenGT/NGAO-Nuker) On Top @everyone @here | Best Nuker Tool :) ",
         "AdminRoleToEveryone": "No",
         "DelExistingChannels": "Yes",
         "DeleteRoles": "No",
